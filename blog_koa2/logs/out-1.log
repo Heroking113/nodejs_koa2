@@ -1,0 +1,42 @@
+19-10-18 19:00:35:   <-- GET /api/blog/list?isAdmin=1
+19-10-18 19:00:35: GET /api/blog/list?isAdmin=1 - 28ms
+19-10-18 19:00:35:   --> GET /api/blog/list?isAdmin=1 200 45ms 217b
+19-10-18 19:00:53:   <-- GET /api/blog/list?isAdmin=1
+19-10-18 19:00:53: GET /api/blog/list?isAdmin=1 - 24ms
+19-10-18 19:00:53:   --> GET /api/blog/list?isAdmin=1 200 39ms 217b
+19-10-18 19:00:57:   <-- GET /api/blog/list?isAdmin=1
+19-10-18 19:00:57: GET /api/blog/list?isAdmin=1 - 2ms
+19-10-18 19:00:57:   --> GET /api/blog/list?isAdmin=1 200 4ms 217b
+19-10-18 19:01:11:   <-- GET /api/blog/list?isAdmin=1
+19-10-18 19:01:11: GET /api/blog/list?isAdmin=1 - 2ms
+19-10-18 19:01:11:   --> GET /api/blog/list?isAdmin=1 200 7ms 217b
+19-10-18 19:01:22:   <-- POST /api/blog/new
+19-10-18 19:01:22: POST /api/blog/new - 27ms
+19-10-18 19:01:22:   --> POST /api/blog/new 200 28ms 28b
+19-10-18 19:01:24:   <-- GET /api/blog/list?isAdmin=1
+19-10-18 19:01:24: GET /api/blog/list?isAdmin=1 - 3ms
+19-10-18 19:01:24:   --> GET /api/blog/list?isAdmin=1 200 5ms 312b
+19-10-18 19:01:28:   <-- GET /api/blog/detail?id=24
+19-10-18 19:01:28: GET /api/blog/detail?id=24 - 2ms
+19-10-18 19:01:28:   --> GET /api/blog/detail?id=24 200 4ms 113b
+19-10-18 19:01:32:   <-- POST /api/blog/update
+19-10-18 19:01:32: POST /api/blog/update - 34ms
+19-10-18 19:01:32:   --> POST /api/blog/update 200 35ms 11b
+19-10-18 19:01:34:   <-- GET /api/blog/list?isAdmin=1
+19-10-18 19:01:34: GET /api/blog/list?isAdmin=1 - 13ms
+19-10-18 19:01:34:   --> GET /api/blog/list?isAdmin=1 200 15ms 313b
+19-10-18 19:01:36:   <-- POST /api/blog/delete
+19-10-18 19:01:36: POST /api/blog/delete - 28ms
+19-10-18 19:01:36:   --> POST /api/blog/delete 200 28ms 11b
+19-10-18 19:01:38:   <-- GET /api/blog/list?isAdmin=1
+19-10-18 19:01:38: GET /api/blog/list?isAdmin=1 - 2ms
+19-10-18 19:01:38:   --> GET /api/blog/list?isAdmin=1 200 4ms 217b
+19-10-18 19:03:17:   <-- GET /api/blog/list?isAdmin=1
+19-10-18 19:03:17: GET /api/blog/list?isAdmin=1 - 2ms
+19-10-18 19:03:17:   --> GET /api/blog/list?isAdmin=1 200 4ms 217b
+19-10-18 19:03:20:   <-- GET /api/blog/list?isAdmin=1
+19-10-18 19:03:20: GET /api/blog/list?isAdmin=1 - 3ms
+19-10-18 19:03:20:   --> GET /api/blog/list?isAdmin=1 200 5ms 217b
+19-10-18 19:03:21:   <-- GET /api/blog/detail?id=23
+19-10-18 19:03:21: GET /api/blog/detail?id=23 - 1ms
+19-10-18 19:03:21:   --> GET /api/blog/detail?id=23 200 4ms 113b
